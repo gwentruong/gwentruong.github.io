@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Uyen Truong's Portfolio 
+title: Uyen Truong
 email: uyen.1.truong@aalto.fi
-description: Learning Portfolio 
-github_username: gwentruong 
+description: Learning Portfolio
+github_username: gwentruong
 minimal_mistakes_skin: aqua
 logo: "/assets/images/logo.png"
-search: false 
+search: false
 
 # Build settings
 markdown: kramdown
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Uyen Truong"
   avatar : "/assets/images/smallone.jpg"
-  bio    : "GIS developer, Aspiring Water Engineer"
+  bio    : "GIS developer | Aspiring Water Engineer"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
