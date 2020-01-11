@@ -2,7 +2,6 @@
 permalink: /about/
 title: "About"
 ---
-{% include base_path %}
 
 Hello there, Uyen Truong wrote some lines about herself here.
 
