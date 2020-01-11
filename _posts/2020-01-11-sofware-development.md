@@ -1,14 +1,23 @@
 ---
 title: "To become a great software developer"
+excerpt: "This post should [...]"
+header:
+  overlay_image: /assets/images/programming.jpg
+  overlay_filter: 0.4
+  caption: "Photo credit: [Fotis Fotopoulos](https://unsplash.com/@ffstop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash"
 categories:
     - Portfolio
 tags:
     - software_developement
 ---
 
-The title sounds so ambitious but it is a no brainer just to become an average code monkey in the software developing field. Well, it is true that I can't achieve all at once and there should be a balance among them. Sorry, the real title is ...
+The title sounds so ambitious but it is a no brainer just to become an average code monkey in the software developing field.
 
-### To become a competent software developer
+Well, it is true that I can't achieve all at once and there should be a balance among them.
+
+Sorry, the real title is ...
+
+# To become a competent software developer
 
 Most of my software development knowledge and skills were gained mostly from workplace, largely from self-learning and a little from some rushing computer science courses at the end of my bachelor degree.
 
@@ -20,7 +29,7 @@ So back to the title of this post:
 
 **What does it take to become a competent software developer?**
 
-*In short:*
+## In short:
 
 - Good foundation of computer science knowledge (architecture, algorithm, security, etc).
 - Understanding and keeping track of current available technologies.
@@ -31,25 +40,25 @@ So back to the title of this post:
 - Sharp and excellent researching skills.
 - Practicing everyday.
 
-The GIS track which I am pursuing requires knowledge and skills of the whole ecosystem both in software development and data science. Skills set for data science side is mentioned in another post.
+The GIS track which I am pursuing requires knowledge and skills of the whole ecosystem both in software development and data science. Most of skills and knowledge mentioned would be acquired during work and self-learning. Skills set for data science side is mentioned in another post.
 
-#### Database and analyzing data
+### Database and analyzing data
 
 - Database design
 - Optimizing queries and databases
 
 **keywords**: PostgreSQL, PostGIS
 
-#### Backend
+### Backend
 
 - Processing data from database to front-end
-- Implementing algorithm and features
+- Implementing algorithm and features, backbone of applications.
 - Processing receiving data from front-end
 - Debugging problems
 
 **keywords**: Java, Python
 
-#### Frontend
+### Frontend
 
 - Implementing interface, interaction, feature from backend to users.
 - Improving good UX
@@ -57,7 +66,7 @@ The GIS track which I am pursuing requires knowledge and skills of the whole eco
 
 **keywords**: JavaScript, ReactJS, NodeJS, WebGL, Mapbox, Leaflet
 
-#### Cloud Server
+### Cloud Server
 
 - Creating microservices for main applications
 - Connecting different servers, databases and channels with each other
@@ -65,7 +74,7 @@ The GIS track which I am pursuing requires knowledge and skills of the whole eco
 
 **keywords**: AWS RDS, AWS EC2, AWS Lambda, Linux, Heroku
 
-#### Collaboration and automation
+### Collaboration and automation
 
 - Automating testing and building procedures
 - Collaborating with team members through version control
