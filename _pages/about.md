@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 ---
 
@@ -16,9 +16,11 @@ Hi again, I'm Uyen Truong a.k.a Gwen, a GIS developer at [SkenarioLabs Oy](https
 > *Duh, what do you do?*
 
 **Professionally**
+
 Currently, I am working at [SkenarioLabs Oy](https://skenariolabs.com/), where we provide portfolios management and analytic tools powered by AI for real estate industry. My job mainly deals with preparing and analyzing spatial data for machine learning models, coding up some GIS server at backend and map interface on frontend.
 
 **Academically**
+
 I'm doing my MSc program in Water and Environmental Engineering at [Aalto University](https://aalto.fi). My main focus is Water Resource Engineering and Management that includes hydrological modelling, water system modelling and all kinds of related modelling. Understanding the nature resources, how to protect and harness them through legislation and engineering are core knowledge which I am acquiring from the program. Besides that, I am participating in product development and remote sensing courses. Why? Because I have to live up to the reputation of my university: the combination of Art, Business and Engineering. Although my art part is nowhere to be found, I can surely hire my talented friends to do that.
 
 **In my free time**, I eagerly volunteer, organize events and jump into coding in several hackathons to reduce my sleeping time. Of course, I do have a life. I am a member of a local theater club. During summer time, I spend a lot of time for bird watching and forest looting a.k.a foraging.
