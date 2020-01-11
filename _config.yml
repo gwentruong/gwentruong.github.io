@@ -18,7 +18,7 @@ email: uyen.1.truong@aalto.fi
 description: Learning Portfolio 
 github_username: gwentruong 
 minimal_mistakes_skin: aqua
-logo: "/assets/images/logo.png"
+#logo: "/assets/images/logo.png"
 search: false 
 
 # Build settings
