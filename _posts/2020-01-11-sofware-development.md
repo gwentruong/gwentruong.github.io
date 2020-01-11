@@ -1,6 +1,6 @@
 ---
 title: "To become a great software developer"
-excerpt: "This post should [...]"
+excerpt: "The title sounds so ambitious but it is a no brainer just to become an average code monkey in the software developing field."
 header:
   overlay_image: /assets/images/programming.jpg
   overlay_filter: 0.4
@@ -10,8 +10,6 @@ categories:
 tags:
     - software_developement
 ---
-
-The title sounds so ambitious but it is a no brainer just to become an average code monkey in the software developing field.
 
 Well, it is true that I can't achieve all at once and there should be a balance among them.
 

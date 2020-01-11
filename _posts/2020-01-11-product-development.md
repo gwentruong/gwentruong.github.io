@@ -1,6 +1,6 @@
 ---
 title: "What does it take to design your dream product?"
-excerpt: "This post should [...]"
+excerpt: "Sweat, blood, tears...?"
 header:
   overlay_image: /assets/images/construction.jpg
   overlay_filter: 0.4
@@ -10,8 +10,6 @@ categories:
 tags:
     - product_developement
 ---
-
-Sweat, blood, tears...?
 
 Your dream product isn't that valuable if no one wants or needs it. And you don't want to give in to producing products which feed into toxic consumerism. Let's keep our core value tight and thought about the nature around us, alright?
 

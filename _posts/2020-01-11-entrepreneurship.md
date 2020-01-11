@@ -1,6 +1,6 @@
 ---
 title: "Drop out school, start your business"
-excerpt: "This post should [...]"
+excerpt: "Believe or not. I might not do that unless I manage to find lucrative problems to dig in."
 header:
   overlay_image: /assets/images/slush.jpg
   overlay_filter: 0.4
@@ -10,8 +10,6 @@ categories:
 tags:
     - entrepreneurship
 ---
-
-Believe or not. I might not do that unless I manage to find lucrative problems to dig in.
 
 There is no right answer when it comes to entrepreneurship. Entrepreneurship to me is when you decide to be in charge of who you are, what you do and how you would become.
 

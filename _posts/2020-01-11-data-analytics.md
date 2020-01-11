@@ -1,6 +1,6 @@
 ---
 title: "Do hydrologists need to code?"
-excerpt: "This post should [...]"
+excerpt: "Yes, the job market is tough."
 header:
   overlay_image: /assets/images/river.jpg
   overlay_filter: 0.4
@@ -10,8 +10,6 @@ categories:
 tags:
     - data_analytics
 ---
-
-**Yes**, the job market is tough.
 
 The advancement of IoT industry made the field work of hydrologists not so complicated in the term of sweat labour but processing large amount of data.
 
